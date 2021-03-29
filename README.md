@@ -1,3 +1,3 @@
 ### Exploratory_Analyses
 
-Funcrtions for exploratory andalyses from the Data Science Specialization John Hopkins
+Functions for exploratory analyses from the Data Science Specialization, John Hopkins
